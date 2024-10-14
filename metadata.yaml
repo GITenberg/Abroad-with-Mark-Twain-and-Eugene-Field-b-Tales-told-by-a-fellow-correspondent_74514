@@ -1,0 +1,35 @@
+_repo: Abroad-with-Mark-Twain-and-Eugene-Field-b-Tales-told-by-a-fellow-correspondent_74514
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fischer, Henry W. (Henry William)
+    aliases:
+    - Fischer, Henry William Hubert
+    - Fisher, Henry W. (Henry William)
+    - Eppinghoven, Ursula, Gräfin von
+    - Eppinghoven, Ursula, Grafin von
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '33735'
+    url: http://www.gutenberg.org/2009/agents/33735
+description: ''
+gutenberg_issued: '2024-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74514'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924022022283/mode/2up
+pgterms:marc905: 20240310133517fisher
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Carla Foust, Susan E. and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aNew York :$bNicholas L. Brown, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Abroad with Mark Twain and Eugene Field : $b Tales told by a fellow correspondent'
+url: http://www.gutenberg.org/ebooks/74514
