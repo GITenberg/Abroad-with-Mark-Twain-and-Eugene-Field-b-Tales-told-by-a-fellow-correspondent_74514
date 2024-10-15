@@ -1,5 +1,8 @@
 _repo: Abroad-with-Mark-Twain-and-Eugene-Field-b-Tales-told-by-a-fellow-correspondent_74514
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74514-h/images/cover.jpg
 creator:
   author:
     agent_name: Fischer, Henry W. (Henry William)
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '33735'
     url: http://www.gutenberg.org/2009/agents/33735
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74514#Abroad-with-Mark-Twain-and-Eugene-Field-b-Tales-told-by-a-fellow-correspondent
 gutenberg_issued: '2024-10-04'
 gutenberg_type: Text
 identifiers:
